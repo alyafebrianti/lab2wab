@@ -1,5 +1,8 @@
 # lab2wab
-## 
+## Nama : Alya Febrianti
+## Kelas : TI.24.A1
+## NIM : 312410692
+
 <img width="959" height="302" alt="hasil 1" src="https://github.com/user-attachments/assets/b190a6ae-efb5-4690-97ee-6167a00f79e6" />
 
 <img width="950" height="498" alt="hasil" src="https://github.com/user-attachments/assets/f5d96bb2-7688-4c8e-a2b9-bca80d8f41cd" />
